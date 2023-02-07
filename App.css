@@ -1,0 +1,11 @@
+.add-todo-button {
+  position: fixed; /* 목록이 길어지면 스크롤이 생기는데 그것과 상관없이 위치 고정 */
+  right: -5px;
+  bottom: 0;
+  z-index: 100;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  font-size: 5rem;
+  color: #f67280;
+}
